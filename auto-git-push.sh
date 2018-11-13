@@ -9,6 +9,6 @@ touch $FILENAME
 echo "this is a test" > $FILENAME
 git checkout master
 git pull
-git add .
+git add $FILENAME
 git commit -m "add dummy ARExport $NOW"
 git push
