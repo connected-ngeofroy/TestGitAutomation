@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -e
 
 DEMO_REPO="$HOME/Workspace/Automation/TestGitAutomation"
