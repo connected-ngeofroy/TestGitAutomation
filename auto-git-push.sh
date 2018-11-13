@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-DEMO_REPO="$HOME/TestGitAutomation"
+DEMO_REPO="$HOME/Workspace/Automation/TestGitAutomation"
 cd $DEMO_REPO
 NOW=$(date +%s)
 FILENAME="ch01_v$NOW.arexport"
